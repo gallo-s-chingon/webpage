@@ -5,7 +5,6 @@ excerpt: 'Testing out a script to boilerplate this'
 collection: blog
 header:
   teaser: /images/bored.png
-category: personal
 ---
 ![cover](/images/bored.png)
 

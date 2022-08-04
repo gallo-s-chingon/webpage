@@ -5,7 +5,6 @@ excerpt: hard work pays off, usually
 collection: blog
 header:
   teaser: /images/long-site.png
-category: personal
 ---
 ![cover](/images/long-site.png)
 # How it took me nearly 30 years to make my own website

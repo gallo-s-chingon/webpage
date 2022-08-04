@@ -119,7 +119,6 @@ defaults:
       layout: archive
       entries_layout: grid
       author_profile: false
-      share: true
   # _blog
   - scope:
       path: "_blog"
@@ -128,7 +127,6 @@ defaults:
       layout: archive
       entries_layout: grid
       author_profile: false
-      share: true
 
 category_archive:
   type: liquid

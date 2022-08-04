@@ -1,8 +1,6 @@
 main:
   - title: "Episodes"
     url: /epis
-  - title: "Blog"
-    url: /weblog
   - title: "Featured"
     url: /featured
   - title: "About"
