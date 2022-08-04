@@ -1,6 +1,5 @@
 ---
 title: Gallo's musings
-future: false
 layout: collection 
 permalink: /weblog
 collection: blog

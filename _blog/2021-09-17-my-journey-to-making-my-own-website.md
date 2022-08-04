@@ -2,6 +2,7 @@
 title: My Long Journey to building my own website
 date: 2022-05-23
 excerpt: hard work pays off, usually
+collection: blog
 header:
   teaser: /images/long-site.png
 category: personal

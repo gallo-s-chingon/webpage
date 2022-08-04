@@ -2,6 +2,7 @@
 title: Fucking the Dog at Work
 date: 2022-06-12
 excerpt: 'Testing out a script to boilerplate this'
+collection: blog
 header:
   teaser: /images/bored.png
 category: personal
