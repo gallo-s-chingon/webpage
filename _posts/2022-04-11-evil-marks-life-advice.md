@@ -12,7 +12,7 @@ categories:
 ---
 <iframe src='https://open.spotify.com/embed/episode/6qDz5MRXCLlNAeSVqpcDmX' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
-{% includ figure image_path="/images/ems-pizza.png" alt="evil mark show logo with a pizza background" %}
+{% include figure image_path="/images/ems-pizza.png" alt="evil mark show logo with a pizza background" %}
 
 Check out Evil Mark's podcast, he can be found at evilmark.com and we get to hear some of his life advice and how to apply it to your life.
 
