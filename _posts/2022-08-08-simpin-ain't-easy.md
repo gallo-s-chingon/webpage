@@ -11,7 +11,7 @@ category: advice
 
 {% include video id='38vZ-eeiRLg' provider='youtube' %}
 
-Today I have yet ANOTHER conversation with Boogie one half of the hosting duo from Blokk Talk. The IG is Cementblock_Productions and we started the conversation about our simpin stories, but ended up talking about a slew of things. The value of pussy, Paternity, Men's rights and the rest you'll just have to listen to find out more
+Today I have yet ANOTHER conversation with Boogie one half of the hosting duo from [Blokk Talk](https://open.spotify.com/show/2K8ewIGz4Cp544OqMycRoM?si=4c73342748fe4b61). The IG is [Cementblock_Productions](https://www.instagram.com/cementblock_productions/) and we started the conversation about our simpin stories, but ended up talking about a slew of things. The value of pussy, Paternity, Men's rights and the rest you'll just have to listen to find out more
 {% include image_path="/images/chevy.png" caption="Boogie in front of one of his pride and joy" %}
 # Show links
 
