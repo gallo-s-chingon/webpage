@@ -1,8 +1,8 @@
 main:
-  - title: "Episodes"
-    url: /epis
   - title: "Featured"
     url: /featured
+  - title: "Episodes"
+    url: /epis
   - title: "About"
     url: /whoami
   - title: "Categories"

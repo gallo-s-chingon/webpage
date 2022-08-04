@@ -17,16 +17,16 @@ Gallo Chingon, also known as the Chivalrous Chauvinist is a podcaster and coach 
 
 Get in touch with Gallo:
 
-[sucias.xyz](https://sucias.xyz)
-[Instagram](https://www.instagram.com/sucias.are.my.favorite)
+<br>[sucias.xyz](https://sucias.xyz)
+<br>[Instagram](https://www.instagram.com/sucias.are.my.favorite)
 
 Want more Killing Cupid?
-[Free consult](https://app.squarespacescheduling.com/schedule.php?owner=26058093&appointmentType=32780901)
-[Instagram](https://www.instagram.com/killingcupid__)
+<br>[Free consult](https://app.squarespacescheduling.com/schedule.php?owner=26058093&appointmentType=32780901)
+<br>[Instagram](https://www.instagram.com/killingcupid__)
 
 Free 5 Day Breakup [Challenge](https://www.killingcupid.com/5-day-breakup-challenge)
 
-[SUPPORT](https://www.buymeacoffee.com/NadiaAni)
+[SUPPORT](https://www.buymeacoffee.com/NadiaAni) Killing Cupid
 
 SUGGESTION & <a href="mailto:Nadia@KilllingCupid.com">CONTACT</a> 
 
@@ -34,7 +34,9 @@ SUGGESTION & <a href="mailto:Nadia@KilllingCupid.com">CONTACT</a>
 
 <br> Listen on:
 <br> [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)<i class='fas fa-podcast'></i>
+<br> [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)<a href='https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787'><i class='fas fa-podcast'></i></a>
 <br> [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)  <a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
-<br> [u/SuciasAreMyFavorite](https://reddit.com/u/suciasaremyfavorite/submitted) on Reddit <a href='https://reddit.com/u/suciasaremyfavorite/submitted'><i class='fa-brands fa-square-reddit'></i></a>
-<br> [@sucias.are.my.favorite](https://instagram.com/sucias.are.my.favorite) on Instagram  <a href='https://www.instagram.com/sucias.are.my.favorite'><i class='fa-brands fa-instagram-square'></i></a>
+
+<br> Active Scocials:
+<br> [u/SuciasAreMyFavorite](https://reddit.com/u/suciasaremyfavorite/submitted) on Reddit <a href='https://reddit.com/u/suciasaremyfavorite/submitted'><i class='fab fa-reddit'></i></a>
+<br> [@sucias.are.my.favorite](https://instagram.com/sucias.are.my.favorite) on Instagram  <a href='https://www.instagram.com/sucias.are.my.favorite'><i class='fab fa-instagram'></i></a>
