@@ -13,7 +13,7 @@ category: advice
 
 Today’s guest is Boogie, one half of Blokk Talk podcast duo, and he’s gonna share how he learned to be better at getting with women. Find out how he got his nickname, what we have in common with Lunch Ladies and Janitors, plus the secrets our fathers shared and much more packed into 20 minutes. Listen in as there is an uncanny resemblance to our personal histories. 
 
-{% include image_path="/images/chevy.png" %}
+![cover](/images/chevy.png)
 # Show links
 
 <br> Podcast [Website](https://sucias.xyz)  <a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
