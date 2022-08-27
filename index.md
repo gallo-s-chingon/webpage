@@ -8,7 +8,6 @@ excerpt: "Cheat codes for Life, Dating and Relationships"
 ---
 
 
-
 [![Spotify](/images/btn-spotify.png)](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW){: .align-center}
 <br>
 [![Apple](/images/btn-apple.png)](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787){: .align-center}
@@ -20,3 +19,7 @@ excerpt: "Cheat codes for Life, Dating and Relationships"
 [![Intagram](/images/btn-ig.png)](https://instagram.com/sucias.are.my.favorite){: .align-center}
 <br>
 [![Reddit](/images/btn-reddit.png)](https://www.reddit.com/user/suciasaremyfavorite/comments/){: .align-center}
+<br>
+[![email](/images/btn-mail.png)](mailto:el.gallo.cochino@gmail.com?subject=Episode Idea or Question){: .align-center}
+<br>
+[![text](/images/btn-sms.png)](sms://12817667970){: .align-center}
