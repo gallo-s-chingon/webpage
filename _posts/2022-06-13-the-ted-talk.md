@@ -9,7 +9,7 @@ categories:
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5
-  teaser: /images/ted-talk.jpg
+  teaser: /images/ted-talk.png
 ---
 
 <iframe src='https://open.spotify.com/embed/episode/2YLhwSZSto0nP7QMf3evtr' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
