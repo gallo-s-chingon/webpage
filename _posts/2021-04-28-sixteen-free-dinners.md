@@ -5,6 +5,7 @@ excerpt: "Did I tell you about about the time… times? that I got 16 free dinne
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5
+  teaser: /images/16dinners.png
 categories:
   - personal
 tags:
