@@ -7,7 +7,6 @@ header:
 excerpt: "Cheat codes for Life, Dating and Relationships"
 ---
 
-<iframe src="https://open.spotify.com/embed/show/3XjoipCU3QzeIaQAAQpBdW" width="80%" height="232" frameBorder="0" allowtransparency='true' allow="encrypted-media"></iframe>
 
 
 [![Spotify](/images/spotify.png)](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW){: .align-center}
@@ -16,5 +15,3 @@ excerpt: "Cheat codes for Life, Dating and Relationships"
 [![TikTok](/images/tiktok.png)](https://www.tiktok.com/@sucias.are.my.favorite){: .align-center}
 [![Intagram](/images/ig.png)](https://instagram.com/sucias.are.my.favorite){: .align-center}
 [![Reddit](/images/reddit.png)](https://www.reddit.com/user/suciasaremyfavorite/comments/){: .align-center}
-
-{% include video id='evMEdOlj-d0' provider='youtube' %}
