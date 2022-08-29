@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: Sucias are My Favorite
+title: CHEAT CODES
 logo: /images/masthead.png
 masthead_title: are my Favorite
 email: el.gallo.cochino@gmail.com

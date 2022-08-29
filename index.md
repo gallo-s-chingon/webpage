@@ -4,7 +4,7 @@ description: "A podcast about life, dating and relationship advice with a kink t
 header:
   overlay_filter: 0.6
   overlay_image: /images/header-home.png
-excerpt: "Cheat codes for Life, Dating and Relationships"
+excerpt: "For Life, Dating and Relationships"
 ---
 
 
