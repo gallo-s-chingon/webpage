@@ -12,9 +12,9 @@ excerpt: "For Life, Dating and Relationships"
 <br>
 [![Apple](/images/btn-apple.png)](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787){:target="_blank"}
 <br>
-[![YouTube](/images/btn-yt.png)](https://youtu.be/rmxB-B45FZw){:target="_blank"}
+[![YouTube](/images/btn-yt.png)](https://youtu.be/evMEdOlj-d0){:target="_blank"}
 <br>
-[![TikTok](/images/btn-tiktok.png)](https://www.tiktok.com/@sucias.are.my.favorite){:target="_blank"}
+[![TikTok](/images/btn-tiktok.png)](https://www.tiktok.com/@gallo.chingon){:target="_blank"}
 <br>
 [![Intagram](/images/btn-ig.png)](https://www.instagram.com/reel/ChILBbDpsp2/?igshid=YmMyMTA2M2Y=){:target="_blank"}
 <br>
