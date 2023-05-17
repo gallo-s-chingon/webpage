@@ -12,11 +12,11 @@ excerpt: "For Life, Dating and Relationships"
 <br>
 [![Apple](/images/btn-apple.png)](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787){:target="_blank"}
 <br>
-[![YouTube](/images/btn-yt.png)](https://youtu.be/evMEdOlj-d0){:target="_blank"}
+[![YouTube](/images/btn-yt.png)](https://youtube.com/@gallo.s.chingon?sub_confirmation=1)){:target="_blank"}
 <br>
-[![TikTok](/images/btn-tiktok.png)](https://www.tiktok.com/@gallo.chingon){:target="_blank"}
+[![TikTok](/images/btn-tiktok.png)](https://www.tiktok.com/@gallo.s.chingon){:target="_blank"}
 <br>
-[![Intagram](/images/btn-ig.png)](https://www.instagram.com/reel/ChILBbDpsp2/?igshid=YmMyMTA2M2Y=){:target="_blank"}
+[![Intagram](/images/btn-ig.png)](https://www.instagram.com/reel/ChILBbDpsp2){:target="_blank"}
 <br>
 [![Reddit](/images/btn-reddit.png)](https://reddit.com/r/AskMen/comments/w7n7n8/_/ihkgo11/?context=1){:target="_blank"}
 <br>
