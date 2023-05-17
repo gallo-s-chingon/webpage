@@ -12,13 +12,13 @@ excerpt: "For Life, Dating and Relationships"
 <br>
 [![Apple](/images/btn-apple.png)](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787){:target="_blank"}
 <br>
-[![YouTube](/images/btn-yt.png)](https://youtube.com/@gallo.s.chingon?sub_confirmation=1)){:target="_blank"}
+[![YouTube](/images/btn-yt.png)](https://youtube.com/@gallo.s.chingon?sub_confirmation=1){:target="_blank"}
 <br>
 [![TikTok](/images/btn-tiktok.png)](https://www.tiktok.com/@gallo.s.chingon){:target="_blank"}
 <br>
 [![Intagram](/images/btn-ig.png)](https://www.instagram.com/reel/ChILBbDpsp2){:target="_blank"}
 <br>
-[![Reddit](/images/btn-reddit.png)](https://reddit.com/r/AskMen/comments/w7n7n8/_/ihkgo11/?context=1){:target="_blank"}
+[![Reddit](/images/btn-reddit.png)](https://www.reddit.com/user/gallo-s-chingon/comments/?sort=top){:target="_blank"}
 <br>
 [![email](/images/btn-mail.png)](mailto:el.gallo.cochino@gmail.com?subject=Episode Idea or Question){:target="_blank"}
 <br>
