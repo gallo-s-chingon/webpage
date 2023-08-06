@@ -4,8 +4,8 @@ date: 2023-04-05
 excerpt: "Gallo joins to discuss his near-death experiences and other semi related topics"
 collection: feat
 header:
-  teaser: /images/tcrp207
-  overlay_image: /images/tcrp207
+  teaser: /images/tcrp207.jpg
+  overlay_image: /images/tcrp207.jpg
   overlay_filter: 0.5
 ---
 
