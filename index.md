@@ -7,17 +7,8 @@ header:
 excerpt: "For Life, Dating and Relationships"
 ---
 
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
 
-[![Spotify](/images/btn-spotify.png)](https://open.spotify.com/episode/2f2MgrLPrYuGKlsge3gcGp?si=cY0TtIuaSAKw1o8xlqzOaQ){:target="_blank"}
+[<p style="text-align: center;">![Spotify](/images/btn-spotify.png)](https://open.spotify.com/episode/2f2MgrLPrYuGKlsge3gcGp?si=cY0TtIuaSAKw1o8xlqzOaQ){:target="_blank"}
 <br>
 <br>
 [![Apple](/images/btn-apple.png)](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787){:target="_blank"}
@@ -38,4 +29,4 @@ div {text-align: center;}
 [![email](/images/btn-mail.png)](mailto:el.gallo.cochino@gmail.com?subject=Episode Idea or Question){:target="_blank"}
 <br>
 <br>
-[![text](/images/btn-sms.png)](sms://12817667970){:target="_blank"}
+[![text](/images/btn-sms.png)](sms://12817667970){:target="_blank"}</p>
