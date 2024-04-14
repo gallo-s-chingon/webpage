@@ -7,7 +7,8 @@ header:
 excerpt: "For Life, Dating and Relationships"
 ---
 
-<a href="https://open.spotify.com/episode/2f2MgrLPrYuGKlsge3gcGp?si=cY0TtIuaSAKw1o8xlqzOaQ" target="_blank"><img src="/images/btn-spotify.png" align="center" width="80%"></a>
+
+[![Spotify](/images/btn-spotify.png)](https://open.spotify.com/episode/2f2MgrLPrYuGKlsge3gcGp?si=cY0TtIuaSAKw1o8xlqzOaQ){:target="_blank"}
 <br>
 <br>
 [![Apple](/images/btn-apple.png)](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787){:target="_blank"}
