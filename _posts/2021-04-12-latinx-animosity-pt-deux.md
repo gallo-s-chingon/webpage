@@ -25,6 +25,6 @@ word words wordy, do you even read this? any who I'm gonna talk about 1st and 2n
 <br> [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)  <a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
 <br> Active Socials:
 
-<br> [u/SuciasAreMyFavorite](https://reddit.com/u/suciasaremyfavorite/submitted) on Reddit <a href='https://reddit.com/u/suciasaremyfavorite/submitted'><i class='fab fa-reddit'></i></a>
+<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>
 
-<br> [@sucias.are.my.favorite](https://instagram.com/sucias.pod) on Instagram  <a href='https://www.instagram.com/sucias.pod'><i class='fab fa-instagram'></i></a>
+<br> [@sucias.pod](https://instagram.com/sucias.pod) on Instagram  <a href='https://www.instagram.com/sucias.pod'><i class='fab fa-instagram'></i></a>
