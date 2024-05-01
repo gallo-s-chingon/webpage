@@ -1,7 +1,7 @@
 ---
 title: worst date ever
 date: 2024-4-22
-excerpt: 'guess who's back?'
+excerpt: 'guess who's back'
 header:
   teaser: /images/worstdate.jpeg
   overlay_image: /images/show-logo.png
