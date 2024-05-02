@@ -13,8 +13,9 @@ header:
 
 In this episode of The Christian Reeve Podcast, Gallo Chingon joins the show to discuss his near-death experiences, what it was like growing up in the 90s amidst gang culture, being the victim of drive-by shootings, being at knifepoint and gunpoint, paranormal experiences, he discusses how we overcame sex addiction, he shares his thoughts on polyamorous and polysexual relationships, his thoughts on dating apps, and much more!
 
+# links
 
-<br> Podcast [Website](https://sucias.xyz)  <a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
-<br> Listen on [Spotify](https://open.spotify.com/episode/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a> | [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)<i class='fas fa-podcast'></i> | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)  <a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
-<br> [@sucias_r_my_fav](https://twitter.com/sucias_r_my_fav) on Twitter  <a href='https://twitter.com/sucias_r_my_fav'><i class='fab fa-twitter'></i></a> |  [@Gallo_S_Chingon](https://twitter.com/gallo_s_chingon) on Twitter <a href='https://twitter.com/gallo_s_chingon'><i class='fab fa-twitter'></i></a>
-<br> [@sucias.pod](https://instagram.com/sucias.pod) on Instagram  <a href='https://www.instagram.com/sucias.pod'><i class='fa-brands fa-instagram-square'></i></a>
+<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
+<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
+<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
+<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>
