@@ -1,7 +1,7 @@
 ---
-title: -I- Iggy Pop Insane Clown Posse with Gallo From Sucias are my Favorite
+title: I Iggy Pop Insane Clown Posse with Gallo From Sucias are my Favorite
 date: 2022-05-31
-excerpt: " It's interesting indeed, inferring ideas from our I artists!"
+excerpt: "It's interesting indeed, inferring ideas from our I artists!"
 collection: feat
 header:
   teaser: /images/fue.png
@@ -13,9 +13,7 @@ header:
 
 It's interesting indeed, inferring ideas from our I artists!
 
-
 Joining me this go 'round, a very special (unique) episode #50 (!) for File Under: Entertainment, is Gallo, from Sucias Are My Favorite, where his episodes focus typically about general conversations about dating, relationships, the kink community, and other adult topics. Plus some basics about kink you ought to know, what it is, what it isn't.
-
 
 First, CONSENT – Believe it or not, K!nk (should not) happen without it.
 
@@ -28,9 +26,9 @@ These three together are the foundation of K!nk and with it one can safely explo
 
 The topics don't end there, though. He's got episodes discussing his time in the military (Army, but we'll allow, lol), also, as a Roller Derby ref, machismo and 'the red pill', and other interesting topics.
 
-
 Gallo is intelligent, well-spoken, and informed. Check out his show.
 
+---
 
 Also making a vocal appearance (twice now!), to shed more light on WHY ICP isn't the most awful band in the land, is Super Producer Jared, from 'Feathers And Friends' and 'Parrot Gaming Productions'.
 
@@ -40,45 +38,18 @@ That's right, we get some out of character offerings from Iggy Pop; and.....abou
 
 The songs discussed, in order, are:
 
-
-Iggy Pop - Lust For Life
-
-
-Iggy Pop - Isolation
-
-
-Iggy Pop - Talking Snake
-
-
-Iggy Pop - Avenue B
-
-
-Iggy Pop - American Valhalla
-
-
-Insane Clown Posse - Bitches
-
-
-Insane Clown Posse - Let's Go All The Way
-
-
-Insane Clown Posse - Please Don't Hate Me
-
-
-Insane Clown Posse - Just Like That
-
-
-Insane Clown Posse - Piggy Pie
-
-
-
-
+- Iggy Pop - Lust For Life
+- Iggy Pop - Isolation
+- Iggy Pop - Talking Snake
+- Iggy Pop - Avenue B
+- Iggy Pop - American Valhalla
+- Insane Clown Posse - Bitches
+- Insane Clown Posse - Let's Go All The Way
+- Insane Clown Posse - Please Don't Hate Me
+- Insane Clown Posse - Just Like That
+- Insane Clown Posse - Piggy Pie
 
 TRIGGER WARNING: Insane Clown Posse talk consistently about violence, in general, but especially against women in the opening track, and there is also discussion about suicide / self harm in the final track, which leads to a discussion between Gallo and myself pretty extensively about the topic, as well as gun violence and also politics in general.
-
-
-
-
 
 Naturally, we also play "Is It Aerosmith", now with its own thematic introduction!
 
@@ -97,8 +68,6 @@ If you have the means to donate, please do so. Every little bit helps.
 
 If you would like to e-mail the show, you may do so at Fileunderpod@gmail.com. You can follow us on Twitter and vote in our polls, (once more people start following to make it worthwhile ;) @FileUnderPod.
 
-
 You can hear more of me, (and guest of the G episode), Mark, at The Evil Mark Show! Find out more information at www.evilmark.com where you can sign up for the newsletter which drops every Friday. Also, check out the YouTube channel here. Smash that like button!
-
 
 Want File Under swag? Of course you do. Go to http://file-under-entertainment-shop.launchcart.store/shop?page=1

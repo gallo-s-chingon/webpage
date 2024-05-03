@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<iframe src='https://open.spotify.com/embed/episode/' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6jBCj8oIgO30eXyhSL5vNZ' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 In this captivating guest episode, we are privileged to have Gallo share his remarkable journey through a series of near-death experiences. From the heart-stopping encounter of nearly drowning as a child to his survival of multiple treacherous motorcycle accidents, Gallo's story is a testament to the indomitable human spirit and the power of resilience.
 

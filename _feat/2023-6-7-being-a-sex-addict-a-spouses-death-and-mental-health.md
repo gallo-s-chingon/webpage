@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<iframe src='https://open.spotify.com/embed/episode/' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/2LvqG4fnYSB4rbOdAfvCg9' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Gallo has lead 5 lives in one.  He is a recovering sex addict that's active in the kink community.  He's gone from having to pull the plug on the love of his life to now sharing stories and wisdom from his incredible life.
 

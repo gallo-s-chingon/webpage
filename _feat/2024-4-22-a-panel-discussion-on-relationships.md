@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<iframe src='https://open.spotify.com/embed/episode/' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6cCAiucWaUn7MxRg43SCsB' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 a very fun panel where we openly discuss some hot button relationship topics and answer a few questions posted on Reddit.
 

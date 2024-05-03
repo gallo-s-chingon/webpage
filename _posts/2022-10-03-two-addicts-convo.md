@@ -12,6 +12,6 @@ project: ""
 title: Two Addicts Convo
 ---
 
-<iframe src='https://open.spotify.com/embed/episode/$shortLink' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/4cnbuEDA5ZDlZdlz20Qv5V' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today we have two addicts in a conversation, Joshua Shea of ThatCornCoach.com a recovering porn addict, now Betrayal Trauma and Porn Addiction coach and I have a conversation and see where the lines blur between porn and intercourse addiction.
