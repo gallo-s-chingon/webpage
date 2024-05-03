@@ -12,11 +12,3 @@ header:
 <iframe src='https://open.spotify.com/embed/episode/2f2MgrLPrYuGKlsge3gcGp' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Jared is back, this time we talk about his journey in the dating world. His previous luck, or lack thereof and how a little push from your friendly neighborhood Sucio Supreme helped him step up his game, get a girlfriend and by the sound of it, keep her longer than he has in the past.
-
-# Show links
-
-<br> Podcast [Website](https://sucias.xyz)  <a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
-<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
-<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
-<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>

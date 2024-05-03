@@ -93,11 +93,3 @@ And I think that's more of a problem of this whole council culture and the divis
 Because you're stupid and don't deserve to be here and breathing my air. Instead of trying to see if there's common ground that each side has, it just seems that each side wants to stay on their end of the spectrum versus trying to meet in the middle and actually solve problems. So what's the point of all this?
 
 The point is that you can be selfish in a way that makes your life easier. You can still be kind to others and not be a dormant. I hope this made sense to you. Thanks for being here. I love you till next time. Besos.
-
-# Show links
-
-<br> Podcast [Website](https://sucias.xyz)  <a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
-<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
-<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
-<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>

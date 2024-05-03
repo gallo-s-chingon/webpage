@@ -23,12 +23,3 @@ Gallo's podcast is called "Sucias Are My Favorite" and is available on all major
 Listen.  For less than the cost of a cup of coffee a day, you can decide whether I'm funny or not at https://www.youtube.com/c/theyeahsopodcast  
 
 Don't forget to treat that subscribe button like a booty call - hit it and never call it again!  
-
-Thanks for listening!
-
-# links
-
-<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
-<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
-<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>

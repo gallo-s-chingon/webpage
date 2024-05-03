@@ -16,10 +16,3 @@ This week Coralyn interviews Gallo Chingon. Gallo is a recovering  sex-addict an
 As a recovering sex addict,  having sex with over 1000 women he shares  with our listeners when it dawned on him that he actually was addicted  to sex and if he was not having sex at least 4 times a day he felt  inadequate.     
 
 Hankie Pankie Podcast is a Sex-Positive podcast bringing stories from  all walks of life and this story is sure to show you how parenting and  sex education from such a young age plays a huge impact on our youth as  they enter adulthood.
-
-# links
-
-<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
-<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
-<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>

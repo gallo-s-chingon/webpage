@@ -24,21 +24,3 @@ Today we talk about several subjects on the ~~first~~ *only* installment of a Mo
 [Open Secret](https://www.youtube.com/watch?v=xWOXknyBoe4)
 
 [Dating over/under your edu level](https://www.reddit.com/r/datingoverforty/comments/pbotuf/what_is_your_experience_dating_over_or_under_your/) [What does it mean when Dads put "kids are my world" in a dating profile](https://www.reddit.com/r/datingoverforty/comments/p9beua/dads_what_does_it_mean_when_you_put_that_your/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [Asking Women to message first in dating profile](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.reddit.com%2Fr%2FOnlineDating%2Fcomments%2Fpjeokm%2Fasking_women_to_message_first_in_my_profile%2F%3Futm_source%3Dshare%26utm_medium%3Dios_app%26utm_name%3Diossmf&h=AT1cHfz5DBuLIm7js8jMuDHy-lKqbS0yRqpmuKqEc6QIf5lEFnGYp_uN-RDaAOxWFctXS4Bn9tdR96rjC_CyYlElqO5YVXeiQK2Nr_iYPIiGQq43Y6R_9YBruAlsBTcTeY30xwIWvuo) [Brutal Honesty about being overweight](https://l.messenger.com/l.php?u=https%3A%2F%2Fwww.reddit.com%2Fr%2FOnlineDating%2Fcomments%2Fpkku7n%2Fbrutal_honesty_about_being_over_weight%2F%3Futm_source%3Dshare%26utm_medium%3Dios_app%26utm_name%3Diossmf&h=AT1cHfz5DBuLIm7js8jMuDHy-lKqbS0yRqpmuKqEc6QIf5lEFnGYp_uN-RDaAOxWFctXS4Bn9tdR96rjC_CyYlElqO5YVXeiQK2Nr_iYPIiGQq43Y6R_9YBruAlsBTcTeY30xwIWvuo)
-
-@CochinoChingon
-
-If you have episode ideas, or want to ask me a question, you can email me at:
-
-el.gallo@me.com
-
-Make sure you add \`sucias -idea/question\` to the subject
-
-or if you rather text you can hit me up at 210-627-1153. Do NOT Call. I only answer numbers I have saved.
-
-# Show links
-
-<br> Podcast [Website](https://sucias.xyz)  <a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
-<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
-<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
-<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>

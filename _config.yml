@@ -61,11 +61,11 @@ plugins:
 author:
   name   : "Gallo Chingon"
   avatar : "/images/bio-photo.png"
-  bio    : "A former sex addict's life experiences so you don't have to fuck yours up."
+  bio    : "A former intercourse addict's life experiences so you can avoid making the same mistakes"
   links:
-    - label: "YouTube"
-      icon: "fab fa-youtube"
-      url: "https://youtube.com/@gallo.s.chingon"
+    - label: "TikTok"
+      icon: "fab fa-tiktok"
+      url: "https://tiktok.com/@gallo.s.chingon"
     - label: "Reddit"
       icon: "fab fa-reddit"
       url: "https://reddit.com/u/gallo-s-chingon/?sort=top"
@@ -84,6 +84,12 @@ footer:
     - label: "Reddit"
       icon: "fab fa-square-reddit"
       url: "https://reddit.com/u/gallo-s-chingon/?sort=top"
+    - label: "Spotify"
+      icon: "fab fa-spotify"
+      url: "https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW"
+    - label: "Instagram"
+      icon: "fab fa-instagram" 
+      url: "https://instagram.com/gallo.s.chingon"
 
 collections:
   feat:
@@ -100,10 +106,9 @@ defaults:
       type: posts
     values:
       layout: single
-      share: true
+      share: false
       related: true
-      toc: true
-      toc_sticky: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -118,6 +123,7 @@ defaults:
       layout: archive
       entries_layout: grid
       author_profile: false
+      show_date: true
   # _blog
   - scope:
       path: "_blog"
@@ -126,6 +132,9 @@ defaults:
       layout: archive
       entries_layout: grid
       author_profile: false
+      show_date: true
+      toc: true
+      toc_sticky: true
 
 category_archive:
   type: liquid

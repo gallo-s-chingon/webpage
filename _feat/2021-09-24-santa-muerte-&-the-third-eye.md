@@ -16,10 +16,3 @@ Welcome to another episode of Blood Rituals, now featuring an amazing Guest Gall
 He has been avoiding this meeting for years, beside an extremely close interaction while inebriated on shrooms. Listen to us explore the fears and courage associated with the opening of the third eye, and how to cope through these ideals to open oneself when the spirits of your ancestors are begging for an interaction.
 
 Gallo Chingon is the host of the show “Sucias,” a show I’ve been a guest on several times. If you’re interested in his beliefs and the amazing stories he has to offer, involving guests like sex workers, hypnotists, and many other creative people, you find his podcast here! www.Anchor.fm/Sucias ♥️
-
-# links
-
-<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
-<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
-<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>

@@ -65,11 +65,3 @@ On top of that, you need time with the guys have her yearn and long to have more
 What do you think? Which one is the nicer version, not giving her all your time, money and Dick or not giving her all your meat, whatever the case is. I hope you reach out to me, whether it's email, texts or on social media, if you found this advice helpful, or you think someone else could benefit from this, share this with them.
 
 And I'd really appreciate it. If you gave me a review, if you don't have the time for that, the very least give me a like, whatever it is for the platform you're listening on or watching. Thanks for sticking around. I love you. You're worthy of it until next time. Besos
-
-# Show links
-
-<br> Podcast [Website](https://sucias.xyz)  <a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
-<br> Listen to *Sucias* on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [@gallo.s.chingon](https://instagram.com/gallo.s.chingon) on Instagram  <a href='https://www.instagram.com/gallo.s.chingon'><i class='fa-brands fa-instagram-square'></i></a>
-<br> [@gallo.s.chingon](https://www.tiktok.com/@gallo.s.chingon) on TikTok <a href='https://www.tiktok.com/@gallo.s.chingon'><i class='fa-brands fa-tiktok'></i><br>
-<br> [u/gallo-s-chingon](https://reddit.com/u/gallo-s-chingon/submitted) on Reddit <a href='https://reddit.com/u/gallo-s-chingon/submitted'><i class='fab fa-reddit'></i></a>

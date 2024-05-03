@@ -1,7 +1,7 @@
 ---
 title: Gallo's musings
 layout: collection 
-permalink: /weblog
+permalink: /blog
 collection: blog
 entries_layout: grid
 classes: wide
