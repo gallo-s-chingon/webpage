@@ -7,7 +7,7 @@ main:
     url: /whoami
   - title: "Categories"
     url: /categories
-  - title "Blog"
+  - title: "Blog"
     url: /blog
-  - title "Join"
+  - title: "Join"
     url: "https://forms.gle/UePMks5jHi6GF2Lw7"
