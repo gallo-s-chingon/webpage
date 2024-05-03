@@ -127,14 +127,13 @@ defaults:
   # _blog
   - scope:
       path: "_blog"
-      type: archive
+      type: blog
     values:
       layout: archive
       entries_layout: grid
       author_profile: false
       show_date: true
       toc: true
-      toc_sticky: true
 
 category_archive:
   type: liquid
