@@ -70,7 +70,7 @@ author:
       icon: "fab fa-reddit"
       url: "https://reddit.com/u/gallo-s-chingon/?sort=top"
     - label: "Contact"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fas fa-envelope"
       url: "https://sucias.xyz/contact"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-tiktok"
       url: "https://tiktok.com/@gallo.s.chingon"
     - label: "Reddit"
-      icon: "fab fa-square-reddit"
+      icon: "fab fa-reddit"
       url: "https://reddit.com/u/gallo-s-chingon/?sort=top"
     - label: "Spotify"
       icon: "fab fa-spotify"
