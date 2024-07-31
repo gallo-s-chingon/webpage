@@ -7,7 +7,6 @@ header:
 excerpt: "For Life, Dating and Relationships"
 ---
 
-<iframe src="https://open.spotify.com/embed/show/3XjoipCU3QzeIaQAAQpBdW" width="80%" height="232" frameBorder="0" allowtransparency='true' allow="encrypted-media"></iframe>
 <br>
 [![TikTok](/images/btn-tiktok.png)](https://www.tiktok.com/@gallo.s.chingon){:target="_blank"}
 <br>
