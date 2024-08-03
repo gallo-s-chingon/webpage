@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: single
 title: Contact Us
+sitemap: true
+permalink: /outreach
+header:
+  overlay_filter: "0.6"
+  overlay_image: "/images/bbreno.png"
+excerpt: "testing words ipsom lorem"layout: default
 ---
 
 <h1>Contact Us</h1>
