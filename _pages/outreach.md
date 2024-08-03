@@ -1,12 +1,12 @@
 ---
-layout: single
 title: Contact Us
+layout: single
 sitemap: true
 permalink: /outreach
 header:
   overlay_filter: "0.6"
   overlay_image: "/images/bbreno.png"
-excerpt: "testing words ipsom lorem"layout: default
+excerpt: "testing words ipsom lorem"
 ---
 
 <h1>Contact Us</h1>
