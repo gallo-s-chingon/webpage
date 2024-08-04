@@ -11,39 +11,13 @@ excerpt: "testing words ipsom lorem"
 
 <h1>Contact Us</h1>
 
-<p>Please select your category:</p>
+<p>Please let us know who you are</p>
 
-<select id="categorySelect">
-  <option value="">Choose an option</option>
-  <option value="band">Band/Artist</option>
-  <option value="promoter">Promoter</option>
-  <option value="fan">Music Fan</option>
-  <option value="vendor">Vendor</option>
+<ul>
+  <li><a href="https://docs.google.com/forms/d/1mez8avQfWKgSt_HaSd9YiHfrchpCSFlZryGMMwOp35o" target="_blank">Band/Artist</a></li>
+  <li><a href="https://docs.google.com/forms/d/1q0xLpLmynwTLBNzlEx2sTTlasha5Bz3aPlQq0CUeeXM" target="_blank">Promoter</a></li>
+  <li><a href="https://docs.google.com/forms/d/1q0xLpLmynwTLBNzlEx2sTTlasha5Bz3aPlQq0CUeeXM" target="_blank">Music Fan</a></li>
+  <li><a href="https://docs.google.com/forms/d/1bljffDI0lAckPzMztpXSb93LvBbvaYFuTc6idZee_wI" target="_blank">Karaoke Enthusiast</a></li>
+  <li><a href="https://docs.google.com/forms/d/1DdP8vDLUo1_gPeT0-pwcs8vV-YFcvTbY3aCO84JXTsg" target="_blank">General Question</a></li>
+</ul>
 
-<div id="linkContainer" style="display: none; margin-top: 20px;">
-  <a id="formLink" href="#" target="_blank">Click here to fill out the form</a>
-</div>
-
-<script>
-  const categorySelect = document.getElementById('categorySelect');
-  const linkContainer = document.getElementById('linkContainer');
-  const formLink = document.getElementById('formLink');
-
-  const formUrls = {
-    band: 'https://docs.google.com/forms/d/1mez8avQfWKgSt_HaSd9YiHfrchpCSFlZryGMMwOp35o',
-    promoter: 'https://docs.google.com/forms/d/1q0xLpLmynwTLBNzlEx2sTTlasha5Bz3aPlQq0CUeeXM',
-    fan: 'https://docs.google.com/forms/d/1OESAeo1VlJrYJ0fC-e3wA-yRQ_qpYtdc9frYbnBQIoY',
-    vendor: 'https://docs.google.com/forms/d/1DdP8vDLUo1_gPeT0-pwcs8vV-YFcvTbY3aCO84JXTsg'
-    general: 'https://docs.google.com/forms/d/1OESAeo1VlJrYJ0fC-e3wA-yRQ_qpYtdc9frYbnBQIoY'
-  };
-
-  categorySelect.addEventListener('change', function() {
-    const selectedCategory = this.value;
-    if (selectedCategory) {
-      formLink.href = formUrls[selectedCategory];
-      linkContainer.style.display = 'block';
-    } else {
-      linkContainer.style.display = 'none';
-    }
-  });
-</script>
