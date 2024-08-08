@@ -1,8 +1,8 @@
 main:
-  - title: "events"
-    url: https://www.eventbrite.com/o/sucias-18359880785
-    target: _blank
   - title: "FAQ"
     url: /faq/
   - title: "connect"
     url: /connect/
+  - title: "events"
+  url: https://www.eventbrite.com/o/sucias-18359880785
+  target: _blank
