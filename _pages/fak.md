@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 layout: splash
-permalink: /faq
+permalink: /faq/
 header:
   overlay_image: /images/questions.jpg
   overlay_filter: 0.5

@@ -1,7 +1,7 @@
 ---
 title: Event Calendar
 layout: splash
-permalink: /calendar
+permalink: /calendar/
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-04ZQ48HPLD"></script>

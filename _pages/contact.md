@@ -2,7 +2,7 @@
 title: Connect with us
 layout: single
 author_profile: true
-permalink: /connect
+permalink: /connect/
 header:
   overlay_filter: "0.6"
   overlay_image: "/images/bbreno.png"
