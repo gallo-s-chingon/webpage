@@ -1,43 +1,29 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CHEAT CODES
+title: Sucias Bar Reno
 logo: /images/masthead.png
-masthead_title: home
-email: el.gallo.cochino@gmail.com
+masthead_title: Bar
+email: info@sucias.xyz
 description: >- # this means to ignore newlines until "baseurl:"
-  'Life dating and relationship advice with a kink twist, life experiences, and personal stories'
-github_username: gChingon
+  "Reno's Latin music venue, bar & event space in the Brewery District"
+twitter_username: sucias_bar
 minimal_mistakes_skin: neon
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
-future: false
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Americas/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _blog
-  - _feat
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,7 +32,10 @@ exclude:
    - Gemfile
    - Gemfile.lock
    - node_modules
-   - org/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -59,45 +48,30 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "Gallo Chingon"
-  avatar : "/images/bio-photo.png"
-  bio    : "A former intercourse addict's life experiences so you can avoid making the same mistakes"
+  name   : "Sucias"
+  avatar : "/images/show-logo.png"
+  bio    : "Reno's Latin music venue, bar & event space in the Brewery District"
   links:
-    - label: "TikTok"
-      icon: "fab fa-tiktok"
-      url: "https://tiktok.com/@gallo.s.chingon"
-    - label: "Reddit"
-      icon: "fab fa-reddit"
-      url: "https://reddit.com/u/gallo-s-chingon/?sort=top"
-    - label: "Contact"
-      icon: "fas fas fa-envelope"
-      url: "https://sucias.xyz/contact"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thebirdreno.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/thebirdreno"
 
 footer:
   links:
-    - label: "YouTube"
-      icon: "fab fa-youtube"
-      url: "https://youtube.com/@gallo.s.chingon"
-    - label: "TikTok"
-      icon: "fab fa-tiktok"
-      url: "https://tiktok.com/@gallo.s.chingon"
-    - label: "Reddit"
-      icon: "fab fa-reddit"
-      url: "https://reddit.com/u/gallo-s-chingon/?sort=top"
-    - label: "Spotify"
-      icon: "fab fa-spotify"
-      url: "https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW"
+    #    - label: "Twitter"
+    #      icon: "fa-brands fa-x-twitter"
+    #      url: "https://twitter.com/sucias_bar"
     - label: "Instagram"
-      icon: "fab fa-instagram" 
-      url: "https://instagram.com/gallo.s.chingon"
-
-collections:
-  feat:
-    output: true
-    permalink: /:collection/:path/
-  blog:
-    output: true
-    permalink: /:collection/:path/
+      icon: "fa-brands fa-instagram"
+      url: "https://instagram.com/sucias.bar"
+    - label: "TikTok"
+      icon: "fa-brands fa-tiktok"
 
 defaults:
   # _posts
@@ -106,41 +80,22 @@ defaults:
       type: posts
     values:
       layout: single
-      share: true
-      related: true
-      show_date: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-  # _feat
-  - scope:
-      path: "_feat"
-      type: feat
-    values:
-      layout: archive
-      entries_layout: grid
       author_profile: false
-      show_date: true
-  # _blog
-  - scope:
-      path: "_blog"
-      type: blog
-    values:
-      layout: archive
-      entries_layout: grid
-      author_profile: false
-      show_date: true
-      toc: true
 
 category_archive:
   type: liquid
   path: /categories/
-
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "UA-108314831-1"
-#     anonymize_ip: false
+tag_archive:
+  type: liquid
+  path: /tags/

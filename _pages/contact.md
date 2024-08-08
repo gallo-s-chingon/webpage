@@ -1,45 +1,32 @@
 ---
-title: "Contact"
+title: Connect with us
 layout: single
-sitemap: true
-permalink: /contact
 author_profile: true
+permalink: /connect
 header:
-    overlay_filter: "0.6"
-    overlay_image: "/images/header-contact.png"
-excerpt: "Here's how you can reach Gallo"
+  overlay_filter: "0.6"
+  overlay_image: "/images/bbreno.png"
 ---
 
-## Have an idea for a podcast episode?
-Feel free to send a [text](sms://12817667970) 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-04ZQ48HPLD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-or
+  gtag('config', 'G-04ZQ48HPLD');
+</script>
 
-shoot me an <a href="mailto:el.gallo.cochino@gmail.com?subject=Episode Idea">email</a>
+<br><br>
 
-* * *
-<address>
-<br> 216 Lemmon Dr.
-<br> Box 227
-<br> Reno, NV 89506-8701
-</address>
-* * *
-
-If you'd like to contribute to the podcast
-
-*   [Venmo](https://venmo.com/cochinochingon)
-
-if 20k is chump change…
-
-*   [Wish List](https://www.bhphotovideo.com/find/wishlist.jsp#/)
-
-* * *
-## Podcast Links
-
-<br> Listen on:
-<br> [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)<a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a>
-<br> [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias/id1548173787) <a href='https://podcasts.apple.com/us/podcast/sucias/id1548173787'> <i class='fas fa-podcast'></i></a>
-<br> [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)<a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
-<br> Active Socials:
-<br> [@sucias.are.my.favorite](https://instagram.com/sucias.pod) on Instagram  <a href='https://www.instagram.com/sucias.pod'><i class='fab fa-instagram'></i></a>
-<br> [u/SuciasAreMyFavorite](https://reddit.com/u/suciasaremyfavorite/submitted) on Reddit <a href='https://reddit.com/u/suciasaremyfavorite/submitted'><i class='fa-brands fa-reddit'></i></a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
+      <br><br><a href="mailto:booking@sucias.xyz?subject=Booking Inquiry"><img src="/images/musicBooking.png" alt="Booking"></a>
+      <br><br><a href="mailto:info@sucias.xyz?subject=Private Event Inquiry"><img src="/images/eventBooking.png" alt="Private Event Booking"></a>
+      <br><br><a href="https://forms.gle/cjNPRYNFiYJgXxWN9" target="_blank"><img src="/images/questions.png" alt="General Question"></a>
+  </div>
+  <div style="flex: 1;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3077.23842009139!2d-119.8091992!3d39.5316752!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8099474b89310ce7%3A0x742febe007f3e8bb!2sSucias!5e0!3m2!1sen!2sus!4v1723102365360!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</div>

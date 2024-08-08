@@ -2,7 +2,5 @@ _site/
 .sass-cache
 .jekyll-metadata
 .DS_Store
-publish.el
-org/
 template/
 Gemfile.lock

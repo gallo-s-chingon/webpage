@@ -1,11 +1,10 @@
 main:
-  - title: "Featured"
-    url: /featured
-  - title: "Episodes"
-    url: /epis
+  - title: "events"
+    url: https://www.eventbrite.com/o/sucias-18359880785
+    target: _blank
+  - title: "FAQ"
+    url: /faq/
+  - title: "connect"
+    url: /connect/
   - title: "About"
-    url: /whoami
-  - title: "Categories"
-    url: /categories
-  - title: "Blog"
-    url: /blog
+    url: /about/
