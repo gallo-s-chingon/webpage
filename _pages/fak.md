@@ -73,7 +73,7 @@ summary {
 <br>
 <details>
   <summary>What's your refund policy on tickets?</summary>
-  <br>ALL SALES ARE FINAL* Only cancelled performances will be refunded. Refunds will go back to the original card used for purchase within 10 business days from the date of cancellation. This really depends on your bank, it sucks that banks take your cash the instant you swipe, but a refund takes a few days, depending on … I actually have no fucking clue why sometimes you can get it back in 2 days and other times it takes 2 weeks. so, that's why we say 10 business day.
+  <br>ALL SALES ARE FINAL* Only cancelled performances will be refunded. Refunds will go back to the original card used for purchase within 10 business days from the date of cancellation. This really depends on your bank, it sucks that banks take your cash the instant you swipe, but a refund takes a few days, depending on … I actually have no fucking clue why sometimes you can get it back in 2 days and other times it takes 2 weeks. so, that's why we say 10 business days.
 </details>
 <br>
 <details>
