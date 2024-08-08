@@ -48,7 +48,8 @@ summary {
 <br>
 <details>
   <summary>What types of ID are accepted?</summary>
-  <br>We can only accept UNEXPIRED GOVERNMENT issued IDs or Driver's Licenses. I mean, personally, I think, in fact I'm pretty sure you are still YOU when your ID slash license expires. BUT, "the man" sez we can only use UNEXPIRED IDs. Because once it's expired, you, well not you, but some heathen might sell their ID to a minor so they can drink. I mean really? you think a minor is going to use an ID to drink when there are dispensaries? This is a legal requirement we must adhere to.
+  <br>We can only accept UNEXPIRED GOVERNMENT issued IDs or Driver's Licenses. I mean, personally, I think, in fact I'm pretty sure you are still YOU when your ID slash license expires. BUT, "the man" sez we can only use UNEXPIRED IDs. Because once it's expired, you, well not you, but some heathen might sell their ID to a minor so they can drink. I mean really? you think a minor is going to use an ID to drink when there are dispensaries? ANYWHO
+  <br>This is a legal requirement we must adhere to.
 </details>
 <br>
 <details>
