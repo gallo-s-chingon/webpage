@@ -8,3 +8,6 @@ header:
 excerpt: "Reno's scrappy little music venue, bar & event space in the Brewery District"
 ---
 
+### Closed Sun-Weds
+## Open Thurs & Fri 7pm - close
+# Saturday 4pm - close
