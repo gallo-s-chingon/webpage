@@ -11,5 +11,10 @@ excerpt: "Salsa Dancing with Tiempo Latino Dance Company @ Sucias"
 
 # Tiempo Latino @ Sucias
 ## Friday August 23, 2024
-* 21+ $10
-* under 21 $15
+* $10 21+
+* $15 under 21
+
+Class from 8:30PM - 9:30PM
+Dance Social from 9:30PM - close
+
+## ¡FREE before 8:30PM!
