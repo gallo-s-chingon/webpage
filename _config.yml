@@ -49,18 +49,21 @@ plugins:
 
 author:
   name   : "Sucias"
-  avatar : "/images/show-logo.png"
-  bio    : "Reno's Latin music venue, bar & event space in the Brewery District"
+  avatar : "/images/author.png"
+  bio    : "OPEN Thursday - Saturday 7pm - close"
   links:
+    - label: "555 E 4th St, Reno, Nevada"
+      icon: "fa-sharp fa-solid fa-location-dot"
+      url: "https://www.google.com/maps/place/Sucias/@39.5316752,-119.8091992,17z/data=!3m1!4b1!4m6!3m5!1s0x8099474b89310ce7:0x742febe007f3e8bb!8m2!3d39.5316711!4d-119.8066243!16s%2Fg%2F11c60ym1lw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thebirdreno.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://sucias.xyz"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/thebirdreno"
+      url: "https://instagram.com/sucias.bar"
 
 footer:
   links:
