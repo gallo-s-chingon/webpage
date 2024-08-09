@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 layout: splash
 permalink: /faq/
 header:
-  overlay_image: /images/questions.jpg
+  overlay_image: /images/faq.jpg
   overlay_filter: 0.5
 excerpt: "Shit we have to say once a night"
 ---
