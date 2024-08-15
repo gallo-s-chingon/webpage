@@ -58,7 +58,7 @@ summary {
 </details>
 <br>
 <details>
-  <summary>Is The Bird only 21+?</summary>
+  <summary>Is Sucias only 21+?</summary>
   <br>Officially, yes. However, we do have 18+ events and plan on bringing in more.
 </details>
 <br>
