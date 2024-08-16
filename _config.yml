@@ -50,7 +50,7 @@ plugins:
 author:
   name   : "Sucias"
   avatar : "/images/author.png"
-  bio    : "OPEN Thursday - Saturday 7pm - close"
+  bio    : "OPEN<br>Thursday - Saturday<br>   7pm - close <br>Mondays 4pm-10pm"
   links:
     - label: "555 E 4th St, Reno, Nevada"
       icon: "fa-sharp fa-solid fa-location-dot"

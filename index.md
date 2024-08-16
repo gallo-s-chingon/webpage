@@ -1,20 +1,15 @@
 ---
-title: "August 23, 2024"
+title: "Sucias"
 layout: single
 author_profile: true
 description: "Reno's scrappy little music venue, bar & event space in the Brewery District"
 header:
   overlay_filter: 0.6
   overlay_image: /images/18plus.png
-excerpt: "Salsa Dancing with Tiempo Latino Dance Company @ Sucias"
+excerpt: "Reno's scrappy little music venue, bar & event space in the Brewery District"
 ---
-
-# Tiempo Latino @ Sucias
-## Friday August 23, 2024
-* $10 21+
-* $15 under 21
-
-Class from 8:30PM - 9:30PM
-Dance Social from 9:30PM - close
-
-## ¡FREE before 8:30PM!
+<figure class="third">
+  <img src="/images/week-34-at-sucias.mp4">
+  <img src="/images/battle-bands-flyer.mp4">
+  <img src="/images/tiempo-latino-flyer.jpeg">
+  </figure>
