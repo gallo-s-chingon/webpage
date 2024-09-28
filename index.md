@@ -9,7 +9,7 @@ header:
 excerpt: "Reno's scrappy little music venue, bar & event space in the Brewery District"
 ---
 <figure class="third">
-  <img src="/images/week-34-at-sucias.mp4">
-  <img src="/images/battle-bands-flyer.mp4">
-  <img src="/images/tiempo-latino-flyer.jpeg">
+  <img src="/images/1st-thurs.jpg">
+  <img src="/images/3rd-thurs.jpg">
+  <img src="/images/halloween-goth.jpg">
   </figure>

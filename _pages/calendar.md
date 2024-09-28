@@ -22,5 +22,5 @@ permalink: /calendar/
 <div class="cal-container">
 <br>
 <br>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FLos_Angeles&bgcolor=%238affff&title=The%20Bird%20Reno&showNav=0&showPrint=0&showTabs=0&showCalendars=0&src=dGhlYmx1ZWJpcmRyZW5vQGdtYWlsLmNvbQ&color=%23039BE5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%234285F4&showTitle=0&showPrint=0&showCalendars=0&showTabs=0&src=c3VjaWFzLm1mYmRAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 </div>
