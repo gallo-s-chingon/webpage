@@ -22,5 +22,5 @@ permalink: /calendar/
 <div class="cal-container">
 <br>
 <br>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%234285F4&showTitle=0&showPrint=0&showCalendars=0&showTabs=0&src=c3VjaWFzLm1mYmRAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=2&ctz=America%2FLos_Angeles&bgcolor=%233F51B5&showNav=0&title=Events%20at%20Sucias&showPrint=0&showCalendars=0&mode=AGENDA&showTabs=0&showDate=0&src=c3VjaWFzLm1mYmRAZ21haWwuY29t&color=%239E69AF" style="border:solid 1px #777" width="650" height="800" frameborder="0" scrolling="no"></iframe>
 </div>
