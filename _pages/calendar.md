@@ -14,7 +14,7 @@ permalink: /calendar/
 </script>
 <style>
 .cal-container {
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
 }
 </style>
