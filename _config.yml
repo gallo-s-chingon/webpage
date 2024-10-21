@@ -3,13 +3,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sucias Bar Reno
+title: sucias.podcast Reno
 logo: /images/masthead.png
 masthead_title: Bar
 email: info@sucias.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   "Reno's Latin music venue, bar & event space in the Brewery District"
-twitter_username: sucias_bar
 minimal_mistakes_skin: neon
 search: true
 
@@ -50,29 +49,20 @@ plugins:
 author:
   name   : "Sucias"
   avatar : "/images/author.png"
-  bio    : "OPEN<br>Thursday - Saturday<br>   7pm - close <br>Mondays 4pm-10pm"
+  bio    : ""
   links:
-    - label: "555 E 4th St, Reno, Nevada"
-      icon: "fa-sharp fa-solid fa-location-dot"
-      url: "https://www.google.com/maps/place/Sucias/@39.5316752,-119.8091992,17z/data=!3m1!4b1!4m6!3m5!1s0x8099474b89310ce7:0x742febe007f3e8bb!8m2!3d39.5316711!4d-119.8066243!16s%2Fg%2F11c60ym1lw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sucias.xyz"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sucias.bar"
+      url: "https://instagram.com/sucias.podcast"
 
 footer:
   links:
-    #    - label: "Twitter"
-    #      icon: "fa-brands fa-x-twitter"
-    #      url: "https://twitter.com/sucias_bar"
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
-      url: "https://instagram.com/sucias.bar"
+      url: "https://instagram.com/sucias.podcast"
     - label: "TikTok"
       icon: "fa-brands fa-tiktok"
 
