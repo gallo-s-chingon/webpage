@@ -1,14 +1,10 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: sucias.podcast Reno
+# Site settings. These are used to personalize your new site. If you look in the HTML files, you will see them accessed via {{ site.title }}, {{ site.email }}, and so on. You can create any custom variable you would like, and they will be accessible in the templates via {{ site.myvariable }}.
+title: my Favorite
 logo: /images/masthead.png
-masthead_title: Bar
-email: info@sucias.xyz
+masthead_title: Sucias
+email: gchingon@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  "Reno's Latin music venue, bar & event space in the Brewery District"
+  "Gallo's Blog on random ish"
 minimal_mistakes_skin: neon
 search: true
 
@@ -17,24 +13,22 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
-timezone: US/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Central # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# Exclude from processing. The following items will not be processed, by default. Create a custom list to override the default setting.
 exclude:
-   - Gemfile
-   - Gemfile.lock
-   - node_modules
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -47,24 +41,25 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "Sucias"
-  avatar : "/images/author.png"
-  bio    : ""
+  name: "Sucias"
+  avatar: "/images/author.png"
+  bio: ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sucias.xyz"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sucias.podcast"
+      url: "https://instagram.com/gallo.salvaje.chingon"
 
 footer:
   links:
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
-      url: "https://instagram.com/sucias.podcast"
+      url: "https://instagram.com/gallo.salvaje.chingon"
     - label: "TikTok"
       icon: "fa-brands fa-tiktok"
+      url: "https://tiktok.com/@gallo.salvaje.chingon"
 
 defaults:
   # _posts

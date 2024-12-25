@@ -1,3 +1,13 @@
 main:
+  - title: "Featured"
+    url: /featured
+  - title: "Episodes"
+    url: /epis
   - title: "About"
-    url: /about/
+    url: /whoami
+  - title: "Categories"
+    url: /categories
+  - title: "Blog"
+    url: /blog
+  - title: "Join"
+    url: "https://forms.gle/UePMks5jHi6GF2Lw7"
