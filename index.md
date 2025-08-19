@@ -16,6 +16,3 @@ excerpt: "For Life, Dating and Relationships"
 <br>
 <br>
 [![Reddit](/images/btn-reddit.png)](https://www.reddit.com/user/gallo-s-chingon/comments/?sort=top){:target="_blank"}
-<br>
-<br>
-[![text](/images/btn-sms.png)](sms://12817667970){:target="_blank"}
